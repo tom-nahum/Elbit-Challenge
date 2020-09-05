@@ -17,6 +17,6 @@ letter. In order to decode the letter, I've used Playfair Cipher algorithm.
 
 * Then we decode the text according to Playfair Cipher algorithm.
 
-* finally, we execute the decryption into a file, which called
+* Finally, we execute the decryption into a file, which called
   "decryption.txt", and we get the continuation of chapter 1 of "Alice in
   wonderland".

@@ -1,6 +1,7 @@
 ##########
 # FILE: CodeBreaker.py
-# WRITER: Tom Nahum, CS Student at the Hebrew University of Jerusalem
+# WRITER: Tom Nahum, https://www.linkedin.com/in/tom-nachum/
+# CONTACT: tom.nachum@gmail.com, +972-54-540-0958
 # DESCRIPTION: This program helps Alice to solve the code!
 ##########
 
